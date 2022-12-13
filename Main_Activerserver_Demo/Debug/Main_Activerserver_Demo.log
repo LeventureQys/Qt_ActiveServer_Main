@@ -1,0 +1,58 @@
+﻿  moc Main_Activerserver_Demo.h
+  moc OutPut_Class.h
+  Main_Activerserver_Demo.cpp
+  OutPut_Class.cpp
+  main.cpp
+  moc_Main_Activerserver_Demo.cpp
+  moc_OutPut_Class.cpp
+  LINK : 没有找到 D:\Workshop\demos\Main_Activerserver_Demo\Debug\Main_Activerserver_Demo.exe 或上一个增量链接没有生成它；正在执行完全链接
+    正在创建库 D:\Workshop\demos\Main_Activerserver_Demo\Debug\Main_Activerserver_Demo.lib 和对象 D:\Workshop\demos\Main_Activerserver_Demo\Debug\Main_Activerserver_Demo.exp
+Qt5AxServerd.lib(qaxserver.obj) : warning LNK4099: 未找到 PDB“Qt5AxServerd.pdb”(使用“Qt5AxServerd.lib(qaxserver.obj)”或在“D:\Workshop\demos\Main_Activerserver_Demo\Debug\Qt5AxServerd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+Qt5AxServerd.lib(qaxserverbase.obj) : warning LNK4099: 未找到 PDB“Qt5AxServerd.pdb”(使用“Qt5AxServerd.lib(qaxserverbase.obj)”或在“D:\Workshop\demos\Main_Activerserver_Demo\Debug\Qt5AxServerd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+Qt5AxServerd.lib(qaxbindable.obj) : warning LNK4099: 未找到 PDB“Qt5AxServerd.pdb”(使用“Qt5AxServerd.lib(qaxbindable.obj)”或在“D:\Workshop\demos\Main_Activerserver_Demo\Debug\Qt5AxServerd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+Qt5AxServerd.lib(qaxfactory.obj) : warning LNK4099: 未找到 PDB“Qt5AxServerd.pdb”(使用“Qt5AxServerd.lib(qaxfactory.obj)”或在“D:\Workshop\demos\Main_Activerserver_Demo\Debug\Qt5AxServerd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+Qt5AxServerd.lib(qaxservermain.obj) : warning LNK4099: 未找到 PDB“Qt5AxServerd.pdb”(使用“Qt5AxServerd.lib(qaxservermain.obj)”或在“D:\Workshop\demos\Main_Activerserver_Demo\Debug\Qt5AxServerd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+Qt5AxServerd.lib(qaxserverdll.obj) : warning LNK4099: 未找到 PDB“Qt5AxServerd.pdb”(使用“Qt5AxServerd.lib(qaxserverdll.obj)”或在“D:\Workshop\demos\Main_Activerserver_Demo\Debug\Qt5AxServerd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+Qt5AxServerd.lib(qaxtypes.obj) : warning LNK4099: 未找到 PDB“Qt5AxServerd.pdb”(使用“Qt5AxServerd.lib(qaxtypes.obj)”或在“D:\Workshop\demos\Main_Activerserver_Demo\Debug\Qt5AxServerd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+Qt5AxBased.lib(qaxtypefunctions.obj) : warning LNK4099: 未找到 PDB“Qt5AxBased.pdb”(使用“Qt5AxBased.lib(qaxtypefunctions.obj)”或在“D:\Workshop\demos\Main_Activerserver_Demo\Debug\Qt5AxBased.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+Qt5AxBased.lib(qaxutils.obj) : warning LNK4099: 未找到 PDB“Qt5AxBased.pdb”(使用“Qt5AxBased.lib(qaxutils.obj)”或在“D:\Workshop\demos\Main_Activerserver_Demo\Debug\Qt5AxBased.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  Main_Activerserver_Demo.vcxproj -> D:\Workshop\demos\Main_Activerserver_Demo\Debug\Main_Activerserver_Demo.exe
+  Main_Activerserver_Demo.vcxproj -> D:\Workshop\demos\Main_Activerserver_Demo\Debug\Main_Activerserver_Demo.pdb (Full PDB)
+  
+  
+  Debug\\Main_Activerserver_Demo.idl
+  
+  Microsoft (R) 32b/64b MIDL Compiler Version 8.00.0603 
+  Copyright (c) Microsoft Corporation. All rights reserved.
+  Processing Debug\\Main_Activerserver_Demo.idl
+  Main_Activerserver_Demo.idl
+  Processing C:\Program Files (x86)\Windows Kits\8.1\Include\um\ocidl.idl
+  ocidl.idl
+  Processing C:\Program Files (x86)\Windows Kits\8.1\Include\um\oleidl.idl
+  oleidl.idl
+  Processing C:\Program Files (x86)\Windows Kits\8.1\Include\um\objidl.idl
+  objidl.idl
+  Processing C:\Program Files (x86)\Windows Kits\8.1\Include\um\unknwn.idl
+  unknwn.idl
+  Processing C:\Program Files (x86)\Windows Kits\8.1\Include\shared\wtypes.idl
+  wtypes.idl
+  Processing C:\Program Files (x86)\Windows Kits\8.1\Include\shared\wtypesbase.idl
+  wtypesbase.idl
+  Processing C:\Program Files (x86)\Windows Kits\8.1\Include\shared\basetsd.h
+  basetsd.h
+  Processing C:\Program Files (x86)\Windows Kits\8.1\Include\shared\guiddef.h
+  guiddef.h
+  Processing C:\Program Files (x86)\Windows Kits\8.1\Include\um\oaidl.idl
+  oaidl.idl
+  Processing C:\Program Files (x86)\Windows Kits\8.1\Include\um\servprov.idl
+  servprov.idl
+  Processing C:\Program Files (x86)\Windows Kits\8.1\Include\um\urlmon.idl
+  urlmon.idl
+  Processing C:\Program Files (x86)\Windows Kits\8.1\Include\um\msxml.idl
+  msxml.idl
+  Processing C:\Program Files (x86)\Windows Kits\8.1\Include\um\oaidl.acf
+  oaidl.acf
+  Processing C:\Program Files (x86)\Windows Kits\8.1\Include\um\ocidl.acf
+  ocidl.acf
+  Type library attached to D:\Workshop\demos\Main_Activerserver_Demo\Debug\Main_Activerserver_Demo.exe.
+  Server registered successfully!
